@@ -11,7 +11,7 @@
 - Балансировка данных: SMOTE
 - Дополнительные инструменты: Github, OpenAI ChatGPT
 - ## Лендинг
-- [https://ai-hunter.ru/rostelecomkrona](https://ai-hunter.ru/artdental)](https://ai-hunter.ru/artdental)
+- https://ai-hunter.ru/artdental
 ## Сроки участия
   сентябрь - декабрь 2022
 ## Контакты
