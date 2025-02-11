@@ -10,6 +10,8 @@
 - Обученные модели: Keras, KNeighbors, DecisionTree, RandomForest, LGBM, LGBM + SMOTE, DecisionTree + SMOTE, RandomForest + SMOTE.
 - Балансировка данных: SMOTE
 - Дополнительные инструменты: Github, OpenAI ChatGPT
+- ## Лендинг
+- https://ai-hunter.ru/rostelecomkrona
 ## Сроки участия
   сентябрь - декабрь 2022
 ## Контакты
