@@ -6,14 +6,15 @@
 ## Технологии
 - Языки программирования:  Python
 - Среда разработки: Google Colab
-- Библиотеки: TensorFlow/Keras, Pandas, NumPy, Matplotlib, Plotly, Seaborn, sklearn
-- Обученные модели: Keras, KNeighbors, DecisionTree, RandomForest, LGBM, LGBM + SMOTE, DecisionTree + SMOTE, RandomForest + SMOTE.
-- Балансировка данных: SMOTE
-- Дополнительные инструменты: Github, OpenAI ChatGPT
+- Маркировка снимков: ПО labelImg
+- Библиотеки: TensorFlow/Keras,OpenCV (cv2),PIL (Pillow),  NumPy, Matplotlib, Plotly, Scikit-learn, PyTorch
+- Фреймворк: Ultralytics YOLO
+- Обученная модель: YOLOv8
+- Дополнительные инструменты: Google Drive,glob,os,shutil,xml.etree.ElementTree, Github, OpenAI ChatGPT
 - ## Лендинг
 - https://ai-hunter.ru/artdental
 ## Сроки участия
-  сентябрь - декабрь 2022
+  январь - апрель 2023
 ## Контакты
 - Email: anelia.education@yahoo.com
 - Telegram: [@hakunaaa_matataaaaa](https://t.me/hakunaaa_matataaaaa)
